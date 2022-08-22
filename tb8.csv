@@ -1,0 +1,186 @@
+"";"Pais";"Imp. 22";"Participação Imp. 22";"Var. 21/22"
+"1";"Afeganistão";0,01;0;NA
+"2";"Aland, Ilhas";0;0;-0,0769
+"3";"Albânia";0;0;-0,1717
+"4";"Alemanha";226,1;0,0578;0,0765
+"5";"Andorra";0;0;-0,8137
+"6";"Angola";0;0;Inf
+"7";"Anguilla";0,01;0;3,9115
+"8";"Antígua e Barbuda";0;0;NA
+"9";"Arábia Saudita";7,06;0,0018;0,3496
+"10";"Argélia";0;0;NA
+"11";"Argentina";42,9;0,011;0,1193
+"12";"Armênia";NA;NA;NA
+"13";"Aruba";0;0;NA
+"14";"Austrália";3,44;9e-04;-0,3686
+"15";"Áustria";13,52;0,0035;-0,2149
+"16";"Azerbaijão";0,15;0;0,4967
+"17";"Bahamas";0;0;-1
+"18";"Barein";0,33;1e-04;Inf
+"19";"Bangladesh";0;0;0,9745
+"20";"Barbados";0;0;NA
+"21";"Belarus";1,27;3e-04;-0,5817
+"22";"Bélgica";47,74;0,0122;0,0537
+"23";"Belize";0;0;NA
+"24";"Bermudas";NA;NA;NA
+"25";"Mianmar";0;0;-0,6263
+"26";"Bolívia";0,41;1e-04;2,2467
+"27";"Bósnia-Herzegovina";0,27;1e-04;0,7123
+"28";"Botsuana";0;0;-0,034
+"29";"Brasil";4,09;0,001;1,6663
+"30";"Bulgária";2,9;7e-04;1,1146
+"31";"Cabo Verde";0;0;NA
+"32";"Cayman, Ilhas";NA;NA;NA
+"33";"Camboja";0,08;0;-0,3993
+"34";"Camarões";0;0;-1
+"35";"Canadá";15,07;0,0039;0,7224
+"36";"Cazaquistão";0;0;-0,8574
+"37";"Catar";2,65;7e-04;379250,7143
+"38";"Chile";6,04;0,0015;0,767
+"39";"China";1254,98;0,321;0,5191
+"40";"Taiwan (Formosa)";103,15;0,0264;0,0722
+"41";"Chipre";0,03;0;1,0568
+"42";"Colômbia";37,03;0,0095;0,2055
+"43";"Congo";0;0;NA
+"44";"Coreia do Sul";200,52;0,0513;0,4479
+"45";"Costa do Marfim";0,97;2e-04;0,1952
+"46";"Croácia";0,29;1e-04;-0,0247
+"47";"Costa Rica";1,44;4e-04;3,4538
+"48";"Coveite (Kuweit)";0;0;NA
+"49";"Cuba";0;0;NA
+"50";"Curaçao";0;0;NA
+"51";"Benin";NA;NA;NA
+"52";"Dinamarca";28,79;0,0074;1,141
+"53";"Dominica";0;0;NA
+"54";"Equador";0,13;0;-0,5077
+"55";"Egito";1,36;3e-04;-0,191
+"56";"Emirados Árabes Unidos";0,05;0;-0,947
+"57";"Espanha";43,88;0,0112;0,0897
+"58";"Eslovênia";2,97;8e-04;-0,4442
+"59";"Eslováquia";1,56;4e-04;-0,2846
+"60";"Estados Unidos";498,49;0,1275;0,0152
+"61";"Estônia";0,28;1e-04;0,2052
+"62";"Etiópia";0;0;NA
+"63";"Faroe, Ilhas";NA;NA;NA
+"64";"Filipinas";9,28;0,0024;-0,3549
+"65";"Finlândia";8,89;0,0023;0,1109
+"66";"França";95,55;0,0244;0,212
+"67";"Gabão";0;0;NA
+"68";"Gâmbia";0;0;1,7949
+"69";"Gana";0;0;NA
+"70";"Geórgia";0;0;-0,5624
+"71";"Granada";0;0;-1
+"72";"Grécia";0,09;0;-0,3272
+"73";"Guadalupe";0;0;NA
+"74";"Guatemala";0,75;2e-04;0,2111
+"75";"Guiana Francesa";NA;NA;NA
+"76";"Guiné";0;0;NA
+"77";"Guiné-Bissau";0;0;NA
+"78";"Guiana";0;0;-1
+"79";"Haiti";0;0;NA
+"80";"Honduras";0;0;-0,9117
+"81";"Hong Kong";17,86;0,0046;0,6128
+"82";"Hungria";10,89;0,0028;-0,2214
+"83";"Índia";211,74;0,0542;-0,0865
+"84";"Indonésia";41,51;0,0106;-0,0414
+"85";"Iraque";0;0;NA
+"86";"Irã";0,08;0;NA
+"87";"Irlanda";4,59;0,0012;0,863
+"88";"Islândia";0;0;NA
+"89";"Israel";19,87;0,0051;-0,0726
+"90";"Itália";64,84;0,0166;0,0066
+"91";"Jamaica";0;0;NA
+"92";"Japão";181,47;0,0464;-0,0096
+"93";"Jordânia";0,57;1e-04;Inf
+"94";"Laos";0;0;2,25
+"95";"Letônia";0,44;1e-04;0,615
+"96";"Líbano";0;0;Inf
+"97";"Libéria";0;0;NA
+"98";"Líbia";0;0;NA
+"99";"Liechtenstein";0,01;0;-0,6871
+"100";"Lituânia";0,94;2e-04;0,1518
+"101";"Luxemburgo";2,07;5e-04;0,1808
+"102";"Macau";NA;NA;NA
+"103";"Macedônia";0,23;1e-04;33,247
+"104";"Madagascar";0,58;1e-04;0,0435
+"105";"Malásia";35,09;0,009;0,0906
+"106";"Mali";NA;NA;NA
+"107";"Malta";0,72;2e-04;-0,0742
+"108";"Marrocos";0,52;1e-04;-0,9348
+"109";"Marshall, Ilhas";0;0;NA
+"110";"Maurício";0,05;0;-0,6359
+"111";"México";86,55;0,0221;0,0042
+"112";"Moldávia";0;0;-0,8134
+"113";"Mônaco";0;0;6,3826
+"114";"Mongólia";NA;NA;NA
+"115";"Moçambique";0;0;NA
+"116";"Namíbia";0;0;-0,1692
+"117";"Nepal";0;0;NA
+"118";"Nicarágua";0;0;NA
+"119";"Níger";0,02;0;867,48
+"120";"Nigéria";0,03;0;-0,9718
+"121";"Noruega";14,77;0,0038;0,3474
+"122";"Nova Caledônia";NA;NA;NA
+"123";"Nova Zelândia";1,17;3e-04;0,7997
+"124";"Omã";0;0;NA
+"125";"Pacífico, Ilhas do (EUA)";NA;NA;NA
+"126";"Países Baixos (Holanda)";26,01;0,0067;0,1905
+"127";"Paquistão";2,48;6e-04;1,3897
+"128";"Panamá";0,01;0;3,8587
+"129";"Paraguai";4,54;0,0012;2,3759
+"130";"Peru";5,2;0,0013;-0,221
+"131";"Polinésia Francesa";0;0;NA
+"132";"Polônia";23,41;0,006;0,2034
+"133";"Portugal";7,23;0,0018;0,2215
+"134";"Porto Rico";7,48;0,0019;2,1179
+"135";"Quênia";0,16;0;21,2184
+"136";"Quirguistão";NA;NA;NA
+"137";"Reino Unido";33,62;0,0086;-0,35
+"138";"República Centro-Africana";0,06;0;89,2547
+"139";"República Dominicana";0,02;0;-0,7502
+"140";"Reunião";0;0;Inf
+"141";"Zimbábue";0;0;-1
+"142";"Romênia";4,35;0,0011;-0,1468
+"143";"Rússia";31,24;0,008;0,3797
+"144";"El Salvador";0,03;0;-0,5702
+"145";"Samoa";0;0;NA
+"146";"Samoa Americana";0;0;NA
+"147";"São Cristóvão e Névis";0;0;NA
+"148";"San Marino";0,01;0;Inf
+"149";"São Martinho, Ilha de (parte francesa)";0;0;NA
+"150";"Sint Maarten";0;0;NA
+"151";"São Tomé e Príncipe";NA;NA;NA
+"152";"Senegal";NA;NA;NA
+"153";"Serra Leoa";0;0;159,6
+"154";"Sérvia";2,14;5e-04;2,0684
+"155";"Cingapura";21,69;0,0055;-0,2478
+"156";"Síria";NA;NA;NA
+"157";"Sri Lanka";0,29;1e-04;0,0721
+"158";"África do Sul";2,04;5e-04;-0,91
+"159";"Sudão";0;0;NA
+"160";"Suécia";15,45;0,004;-0,2107
+"161";"Suíça";81,23;0,0208;0,0554
+"162";"Suriname";0;0;NA
+"163";"Tailândia";65,65;0,0168;-0,0882
+"164";"Tanzânia";0;0;NA
+"165";"Terras Austrais Francesas";NA;NA;NA
+"166";"Território Britânico do Oceano Índico";0;0;NA
+"167";"Tcheca, República";11,07;0,0028;-0,0293
+"168";"Timor Leste";0;0;NA
+"169";"Togo";NA;NA;NA
+"170";"Toquelau";0;0;NA
+"171";"Trinidad e Tobago";0;0;-0,9932
+"172";"Tunísia";0,24;1e-04;0,194
+"173";"Turquia";11,09;0,0028;-0,1298
+"174";"Ucrânia";0,41;1e-04;-0,9503
+"175";"Uganda";0;0;NA
+"176";"Uruguai";9,79;0,0025;0,1009
+"177";"Uzbequistão";0;0;NA
+"178";"Vaticano";NA;NA;NA
+"179";"Venezuela";0;0;1,2963
+"180";"Vietnã";181,9;0,0465;0,3573
+"181";"Virgens, Ilhas (Britânicas)";0,01;0;NA
+"182";"Virgens, Ilhas (Americanas)";0;0;NA
+"183";"Fiji";NA;NA;NA
+"184";"Congo, República Democrática";0;0;NA
+"185";"Organizações Internacionais";NA;NA;NA
